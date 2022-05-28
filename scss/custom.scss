@@ -1,0 +1,9 @@
+$principal: rgba(44, 226, 211, 0.795);
+$primary: $principal;
+
+
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Bebas+Neue&family=IBM+Plex+Sans+Arabic:wght@200&display=swap");
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "_galeria";
+@import "_nosotros";
+@import "_general";
