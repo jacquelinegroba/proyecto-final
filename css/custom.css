@@ -11742,6 +11742,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.titulo-decoration {
+  text-decoration: none;
+  animation-duration: 4s;
+  animation-name: titulo-decoration;
+}
+
+@keyframes titulo-decoration {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 .productos img {
   width: 100%;
   height: 250px;
@@ -11752,6 +11766,20 @@ textarea.form-control-lg {
   border: 5px solid white;
 }
 
+.titulo-decoration {
+  text-decoration: none;
+  animation-duration: 4s;
+  animation-name: titulo-decoration;
+}
+
+@keyframes titulo-decoration {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
 .dibujo {
   width: 20%;
 }

@@ -1,0 +1,13 @@
+.titulo-decoration{
+    text-decoration: none;
+    animation-duration: 4s;
+    animation-name: titulo-decoration;
+ }
+ @keyframes titulo-decoration{
+     0% {
+         opacity: 0;
+     }
+     100%{
+         opacity: 1;
+     }
+ }
