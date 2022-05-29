@@ -4,7 +4,7 @@ $primary: $principal;
 
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Bebas+Neue&family=IBM+Plex+Sans+Arabic:wght@200&display=swap");
 @import "../node_modules/bootstrap/scss/bootstrap";
-@import "_index";
-@import "_galeria";
-@import "_nosotros";
-@import "_general";
+@import "index";
+@import "galeria";
+@import "nosotros";
+@import "general";
